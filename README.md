@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TraforaTor
+- 👀 I’m interested in studying and sports
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on miniprojects
+- 📫 How to reach me ...
